@@ -11,8 +11,8 @@ const Footer = () => {
                 KitKitchen
               </h5>
               <p>
-                This is a service where we provide the best chefs according to
-                your desires
+                Kitkitchen is  a service where we provide the best chefs according to
+                your Wish
               </p>
             </div>
             <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
