@@ -8,6 +8,7 @@ import { FaGithub } from "react-icons/fa";
 import { useEffect } from "react";
 
 const Login = () => {
+  // declare state for error
   const [error, setError] = useState("");
   const { signIn, signInGoogle, signInGithub } = useContext(AuthContext);
 

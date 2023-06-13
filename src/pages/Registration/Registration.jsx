@@ -40,6 +40,7 @@ const Registration = () => {
     const password = form.password.value;
     const confirmPassword = form.confirmPassword.value;
 
+    // password validation
     if (password !== confirmPassword) {
       setError("Passwords do not match");
       setSuccessMessage("");
