@@ -6,7 +6,7 @@ const PopularRecipes = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/popular-foods")
+    fetch("https://chef-recipe-server-mushfiq-alt.vercel.app/popular-foods")
       .then((response) => response.json())
       .then((jsonData) => setData(jsonData))
       .catch((error) => console.error(error));
