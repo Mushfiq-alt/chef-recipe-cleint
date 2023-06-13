@@ -62,7 +62,7 @@ const Registration = () => {
       navigate("/");
     }
   };
-
+  // event handler to connect form
   const handleAccepted = (event) => {
     setAccepted(event.target.checked);
   };
