@@ -32,6 +32,7 @@ const Registration = () => {
 
   const handleRegister = (event) => {
     event.preventDefault();
+    // collecting data from the form
     const form = event.target;
     const displayName = form.name.value;
     const photoURL = form.photo.value;
