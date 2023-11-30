@@ -45,10 +45,15 @@ Make sure you have the following installed:
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom): Declarative routing for React.
 
 ## Screenshots
+- Landing Page
 ![Home Page](https://i.ibb.co/Wc3kdJr/1.jpg)
+- Details Recipe Page
 ![Details Page](https://i.ibb.co/ZgNhSfs/2.jpg)
+- Login Page
 ![Login Page](https://i.ibb.co/mC8Qybz/4.jpg)
+- Registration Page
 ![Registration Page](https://i.ibb.co/RDThk71/3.jpg)
+- Blog Page
 ![Blog Page](https://i.ibb.co/znZkVS0/5.jpg)
 
 ## Contributing
