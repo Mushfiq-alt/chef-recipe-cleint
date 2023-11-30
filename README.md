@@ -5,9 +5,10 @@ This project is the client-side application that interacts with the Chef Recipe 
 
 ## Features
 - The Website consists of chefs and their expertise and their signature dishes.
+- To see individual chefs recipe user have to login. 
+- Any one can login using Email, Google account and Github Account
 - There is like button for showing that one liked that particular chefs dishes.
 - There is pdf download for button for Details about Chefs and his signature dishes
-- Any one can login using Email, Google account and Github Account
 
 ## Prerequisites
 
