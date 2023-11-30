@@ -64,7 +64,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 - The project is build using React-Bootstrap, React-router, Firebase for client side hosting and vercel for server side hosting. 
 
-## License
-
-This project is licensed under the [ISC License](LICENSE).
-
