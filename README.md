@@ -46,6 +46,10 @@ Make sure you have the following installed:
 
 ## Screenshots
 ![Home Page](https://i.ibb.co/Wc3kdJr/1.jpg)
+![Details Page](https://i.ibb.co/ZgNhSfs/2.jpg)
+![Login Page](https://i.ibb.co/mC8Qybz/4.jpg)
+![Registration Page](https://i.ibb.co/RDThk71/3.jpg)
+![Blog Page](https://i.ibb.co/znZkVS0/5.jpg)
 
 ## Contributing
 
