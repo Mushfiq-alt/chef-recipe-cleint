@@ -44,6 +44,9 @@ Make sure you have the following installed:
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom): Declarative routing for React.
 
+## Screenshots
+![Home Page](https://i.ibb.co/Wc3kdJr/1.jpg)
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
